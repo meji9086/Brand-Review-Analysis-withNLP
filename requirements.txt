@@ -4,11 +4,10 @@ numpy
 re
 tqdm
 
-matplotlib.pyplot
-plotly.graph_objects
+matplotlib
 seaborn
 koreanize_matplotlib
-plotly.express as px
+plotly.express
 
 krwordrank.hangle
 normalize
