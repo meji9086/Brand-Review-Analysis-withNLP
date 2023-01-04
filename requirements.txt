@@ -1,0 +1,24 @@
+streamlit
+pandas
+numpy
+re
+tqdm
+
+matplotlib.pyplot
+plotly.graph_objects
+seaborn
+koreanize_matplotlib
+plotly.express as px
+
+krwordrank.hangle
+normalize
+krwordrank.word
+KRWordRank
+kiwipiepy 
+Kiwi
+
+requests
+PIL
+Image
+bs4
+BeautifulSoup
